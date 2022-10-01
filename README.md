@@ -10,5 +10,5 @@
 </div>
 
 ## Visit the website here:
-<a href="https://minimalist-calculator-cess.netlify.app" target="blank"><img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" height="35px" weigth="35px"/></a>
+<a href="https://minimalist-calculator-cess.netlify.app" target="_blank"><img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" height="35px" weigth="35px"/></a>
                     
