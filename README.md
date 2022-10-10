@@ -1,5 +1,5 @@
 # Calculadora
-Minimalistic calculator📲
+Minimalistic calculator📲💡
 
 <img src="https://github.com/Cess4r/Calculadora/blob/main/cap.gif" height="400px" weigth="400px"/>
 
